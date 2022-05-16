@@ -239,7 +239,7 @@
               <li class="nav-item">
                 <a href="formdokter" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Form Dokter</p>
+                  <p>Form Dokter RS</p>
                 </a>
               </li>
               <li class="nav-item">
